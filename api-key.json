@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lunar-box-398805",
+  "private_key_id": "cc457a31fc5e124e97d743d3c655c78fd5ce9abd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsfpZEKHjZjeaw\nmMmhNEOkzXLXxFhZEbZsZA60FLQZl5f2IO/uScV1Or+AauUV1ev38RRPO8TqbSTf\n4gZo8+IAnrgB4/BUBZVXB7tCaLlk/7F4Tni06B108qOQsnS1KmtRjYFD7982cpVw\nLcVkps+eTnJ/s1kFRwg1tsgNAgM9n43dz8/IvGwtJBw5yu5Xo4SSmELdyclbq3C3\n+W+gyj5WZx6m+UqvzhZnSiZmhzhEAHhKbPuD+fkGIZqlxBPFKnXh/iAQhgR6VweN\npBJbX7erxTNZVf8DubnQivbTBuz6akIK8HOhoDw96YLnnLZENdwsXLv/qiLiPaPW\ndpVtG+LtAgMBAAECggEAA4v/I9Z6NQJU3++QVnsoOJYMj7u8PlPzKT49ytL8fg85\ngx3bw82qsgBRKj89x9RpgPm+e2pE9bYPUqGHlLZjwLQCysUorq2btm7/WSb6nZqg\nB/4tv2M2IdllvBwInXtfurelv2N0tp5Qt35gHJ5NJBnvAvRe4aZ7gyaSQqmL2ViV\n0TDiOKkbOqpyzr94Fvvpia0eYAhcC6b9ZPJPeTrUWAr5KbJemJtAOjJNTicuhymI\n1lgeRc5P27WUZksAKgkV2bXpZcTV6w1pzZNa2J3iR0yiD8RRo2ih6PGC6h08euY+\nn1jhU3f99dJ8dgLIw6E2frBkwgC49ANzuVHWHM16MQKBgQDYzZWd8EYd2yaoc+Cj\nitPD2/mnlayBOCqDzqJiYGXP2DjVPlgyLqacqKT4rSRCoaXxzJmfYkJeW0WyX3zJ\nHV0fcmEMHXR0xo8idkorNtYcsN7bnhpiGoOtc6TTIFyDPs3lLD5aDy9nGApKxpVN\n+KMMsS/q0NoYTB2s6yroYN2sXQKBgQDLrj50O0dzrUCouLUNZrfgMymXX9kBJq3M\nAuZJy/Zku9Q700JrWgifCUgsGiWcxhqBct0Co4OFczm7Trw54j/hHvgZsYQ0RNrO\n+kmYoJduBHZp5HqfKcfyo6Ve9d7XsxUx94CISi0O/1F6zxbuwzoiX8LvWCqeJecG\nBICssGAn0QKBgQCq8V6ZC4ydmeBfTg6/pITYl6e/hXpg4MJU7yaGXu+n9BrLuL6d\nwr7IIwkAsrQ2fXJ0txgh3b3q3BiWTkf741U7qFnwzYC3WqAdUhuk+zXTpXnyvDSd\nSb6tktNRTODk8y4xFrOLGxILPZ9P2kh7FCKrrUHU6hwssEdtwncwhsACWQKBgEWg\n93C8oxyEacpD+oDuUIWwd9NrzL97/YX0p80qkLy3CUK6YcZZLQFRJv8MoTcK8hy2\nq58vTtLcJSxHKkmPcs7+y0ndSZikwThoj6hBngLaO7DPjqvCmLv1/Z6M5vVOHzzJ\no4Lz+Jtb5PrauLg+vSzrF7TCqy8NPgDsoSBn2zdBAoGBAMkrppxxkj9f6y+LTJ2o\n4nhCSzkIDT+3JrwGCx8fXtoUxDPps7vfJ/jqC6+phynlMKMfM+qo5xXue4X5RfJd\nBVJs8IX4yom05k0uMOpZvDODIqsq1wLVlapaBSxmUcGbEOE3g6LwW8CN34Ac9toz\nwF98VMkZSqLNE1tKiikGBWEv\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@lunar-box-398805.iam.gserviceaccount.com",
+  "client_id": "115873621857901033756",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40lunar-box-398805.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
